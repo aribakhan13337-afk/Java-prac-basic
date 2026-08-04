@@ -16,7 +16,7 @@ let numConString = parseFloat(numToString)
 console.log(typeof numToString);
 console.log(numConString);
 
-// tofix for fixing decimal number
+// tofix for fixing decimal number after .
 let num4 =0.3;
 let num5 =0.500;
 let sum2 = num4 +num5;
